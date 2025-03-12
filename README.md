@@ -1,3 +1,20 @@
+# Ai-Safermeme: Detecting Legitimate Solana Memecoins
+
+Ai-Safermeme is an AI-driven tool designed to help users evaluate the legitimacy and safety of Solana memecoins. It analyzes market data, social media sentiment, code quality, and other factors to provide insights and reduce the risk of rug pulls.
+
+## Features
+- **Market Data Analysis:** Evaluate tokenomics, liquidity, and trading volumes.
+- **Social Media Sentiment Analysis:** Assess community sentiment from Twitter, Reddit, and other platforms.
+- **Code Quality Assessment:** Analyze smart contract code for security vulnerabilities.
+- **Comprehensive Evaluation Report:** Generate detailed reports with actionable insights.
+- **User-Friendly Interface:** Easy-to-use web interface for input and results.
+
+## Installation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/OSINT619/Ai-Safermeme.git
+   cd Ai-Safermeme
+
 Create a comprehensive Solana memecoin evaluation AI model. This model will help users assess the legitimacy and potential for rug pulls of Solana memecoins.# Ai-Safermeme
 Ai-Safer Memecoin Analysis.
 
