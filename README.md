@@ -116,7 +116,7 @@ Ai-Safer Memecoin Analysis.
      ```
 
 2. **Model Training:**
-   - Use scikit-learn to train a machine learning model.
+   - Use scikit-learn, TensorFlow, or PyTorch to train a machine learning model.
    - Example:
      ```python
      from sklearn.model_selection import train_test_split
