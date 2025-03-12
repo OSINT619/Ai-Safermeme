@@ -48,7 +48,7 @@ Ai-Safer Memecoin Analysis.
      ```
 
 4. **Web Scraping:**
-   - Use BeautifulSoup for web scraping if needed.
+   - Use BeautifulSoup,  Pyrogram, or Telethon for web scraping if needed.
    - Example:
      ```python
      from bs4 import BeautifulSoup
